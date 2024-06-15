@@ -3,8 +3,16 @@ wall of shields
 standing strong
 on this their chosen field
 
+<<<<<<< HEAD
 form the lines
 shield by shield
 side by side
 we are matching into destiny
+=======
+march as one
+dont look back
+odens sons
+attack
+
+>>>>>>> feature
 
